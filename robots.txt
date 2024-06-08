@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ageoners.github.io/sitemap.html
+Sitemap: https://ageoners.github.io/app/sitemap.html
+Sitemap: https://ageoners.github.io/assets/sitemap.html
+Sitemap: https://ageoners.github.io/includes/sitemap.html
+Sitemap: https://ageoners.github.io/src/sitemap.html
